@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1{
+    text-align: center;
+    padding-top: 5%;
+}
+p{
+    text-align: center;
+}
+.container{
+    margin: 50px;
+    padding: 50px;
+    
+    text-align: center;
+}
+.profile-pic{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background: #fff;
+    padding: 6px;
+    
+}
+.detail-container{
+    background-color: aquamarine;
+    margin: 50px;
+    padding: 50px;
+    
+}
